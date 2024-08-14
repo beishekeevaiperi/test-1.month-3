@@ -1,0 +1,9 @@
+#colorBlock {
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+}
+
+.bg-color {
+    background-color: yellow; /* Цвет, который будет добавляться */
+}
